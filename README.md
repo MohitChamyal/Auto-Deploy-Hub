@@ -13,23 +13,27 @@
     <img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=white&color=2496ED" alt="Docker" />
     <img src="https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman&logoColor=white&color=FF6C37" alt="Postman" />
   </p>
+  <div>
+    <a href="https://deploy-hub.netlify.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Live_Site-Deploy_Hub-28a745?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Site" />
+    </a>
+  </div>
 
+  <br>
+  <div>
+    <a href="https://youtu.be/GdX-LqlLm1g" target="_blank">
+      <img src="https://github.com/RAJA-2004/Deploy-Hub/blob/master/static/landing_page.png" alt="DeployHub Demo Video Thumbnail" width="800" />
+    </a>
+  </div>
+  
   <br />
-
-  <a href="https://deploy-hub.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Site-Deploy_Hub-28a745?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Site" />
-  </a>
-
-  <br /><br />
-
-  <a href="https://youtu.be/GdX-LqlLm1g" target="_blank">
-    <img src="https://github.com/RAJA-2004/Deploy-Hub/blob/master/static/Landing-Page.png" alt="DeployHub Demo Video Thumbnail" width="800" />
-  </a>
-
-  <p><em>Click the image above to watch the full demo video on YouTube 🎥</em></p>
-
-  <br />
+  <div>
+    <a href="https://youtu.be/GdX-LqlLm1g" target="_blank">
+      <img src="https://img.shields.io/badge/Watch_Demo_Video-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo Video" />
+    </a>
+  </div>
 </div>
+
 
 ---
 
