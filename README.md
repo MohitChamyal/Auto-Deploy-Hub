@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-  <h1>🚀 DEPLOY HUB</h1>
+  <h1>🚀 AUTO DEPLOY HUB</h1>
   <p>
     <em>A lightweight cloud deployment service that enables users to upload and host frontend websites <br /> 
     using REST APIs, Dockerized builds and AWS infrastructure.</em>
@@ -22,7 +22,7 @@
   <br>
   <div>
     <a href="https://youtu.be/GdX-LqlLm1g" target="_blank">
-      <img src="https://github.com/RAJA-2004/Deploy-Hub/blob/master/static/landing_page.png" alt="DeployHub Demo Video Thumbnail" width="800" />
+      <img src="https://github.com/MohitChamyal/Auto-Deploy-Hub/blob/master/static/landing_page.png" alt="DeployHub Demo Video Thumbnail" width="800" />
     </a>
   </div>
   
@@ -37,7 +37,7 @@
 
 ---
 
-## ✨ What is Deploy Hub?
+## ✨ What is Auto Deploy Hub?
 
 DeployHub is a deployment service that:
 - Accepts frontend project uploads or repositories via RESTful APIs  
@@ -46,6 +46,17 @@ DeployHub is a deployment service that:
 - Serves content via a custom reverse proxy mapped to subdomains  
 
 It simulates the core behaviors of a CI/CD deployment flow in a clean and modular way.
+
+---
+
+## 🔐 Subdomain Mapping via Reverse Proxy
+
+- DeployHub uses a custom reverse proxy to map subdomains (like app1.deployhub.com) to specific S3 buckets or prefixes
+- This setup does not rely on client-side JavaScript for routing or navigation
+- The proxy:
+  - Validates requests
+  - Fetches from S3
+  - Handles custom headers, caching, and redirects
 
 ---
 
@@ -77,14 +88,3 @@ It simulates the core behaviors of a CI/CD deployment flow in a clean and modula
 
 ---
 
-## 🌐 Connect with Me
-
-<div align="center">
-  Want to collaborate or have questions? Let's connect!
-  <br /><br />
-  <a href="https://www.linkedin.com/in/rajadigvijaysingh/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Raja_Digvijay_Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</div>
-
----
